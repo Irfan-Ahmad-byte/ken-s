@@ -1,0 +1,7 @@
+- What topics get the most viewership?
+- What do are people asking for in the comments?
+- What impacts watch time and click through rate?
+- Can we predict if a title will be clickable? 
+- What thumbnails are most appealing (thumbnail data available in df_agg)
+- What is different about my "viral" videos and normal videos
+- Who is the core audience of my channel?
