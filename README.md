@@ -19,3 +19,10 @@ EDA i.e. Exploratory Data Analysis.
 ## Any Conclusion
 
 - **Data Science** is the most common word among video titles
+
+> Exploring more details using Statistical plus visualization techniques.
+>> Even more can be Achieved Through the Analysis of the data.
+
+## Ken's Image
+
+![Ken Jee's YouTube]('kens.png')
