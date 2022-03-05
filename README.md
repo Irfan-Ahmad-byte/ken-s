@@ -23,6 +23,6 @@ EDA i.e. Exploratory Data Analysis.
 > Exploring more details using Statistical plus visualization techniques.
 >> Even more can be Achieved Through the Analysis of the data.
 
-## Ken's Image
+## Ken's YT Screenshot
 
-![Ken Jee's YouTube]('kens.png')
+![Ken Jee's YouTube](kens.png)
